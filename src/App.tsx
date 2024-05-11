@@ -2,7 +2,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Layout from "./components/Layout";
 import Portfolio from "./routes/Portfolio";
 import Home from "./routes/Home";
-import Qualifications from "./routes/qualifications";
+import Qualifications from "./routes/Qualifications";
 
 export default function App() {
     return (<BrowserRouter>
