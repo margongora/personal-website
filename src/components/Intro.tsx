@@ -9,8 +9,8 @@ const Intro = () => {
           Howdy! I am currently a Computer Engineering student, as well as a Peer Teacher, at Texas A&M University.
         </p>
         <p className='text-lg'>
-          Here, I've garnered a great deal of love and respect for the field I am trying to enter, from learning the intricacies of digital design, circuits, and computer architecture to system design, data structures, and databases.
-          I mainly have experience coding with C, C++, Python, and Java/Typescript. I've developed applications in Typescript with React, and in Python with Flask and Pyscopg. I've also worked with the hardware description language Verilog and the LegV8 subset of the ARMv8 architecture.
+          I've garnered a great deal of love and respect for the field I am trying to enter, from learning the intricacies of digital design, circuits, and computer architecture to system design, data structures, and databases.
+          I mainly have experience coding with C, C++, Python, and Java/Typescript. I've developed applications in Typescript with React, and in Python with Flask. I've also worked with the hardware description language Verilog and the LegV8 subset of the ARMv8 architecture.
           I’m very quick to learn new things and new technologies, both as required of me and on my own time.
         </p>
         <p className='text-lg'>
